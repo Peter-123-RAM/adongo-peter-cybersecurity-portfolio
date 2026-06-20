@@ -76,6 +76,19 @@ Career Interests
 - Incident Response
 - Security Research
 
+
+Current Learning Journey
+
+I am currently enrolled in the Defender Track at Ongoza Cyber Hub (OCH), where I am developing practical skills in:
+
+- Threat Hunting
+- Detection Engineering
+- Digital Forensics
+- Incident Response
+- Security Operations (SOC)
+- Threat Intelligence
+
+The program is project-based and focuses on solving realistic cybersecurity scenarios using industry-standard methodologies and open-source security tools.
 Education
 
 Kisii University
