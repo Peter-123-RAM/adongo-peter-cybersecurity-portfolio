@@ -97,5 +97,5 @@ Bachelor of Science in Applied Computer Science
 
 Certifications
 
-- Cyber Shujaa
+- Cyber Shujaa (Cisco Ethical Hacker)
 - Ethical Hacking & Penetration Testing: Go from Zero to Hero (Udemy)
