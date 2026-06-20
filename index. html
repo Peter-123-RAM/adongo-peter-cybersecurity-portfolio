@@ -1,0 +1,41 @@
+<!DOCTYPE html><html>
+<head>
+    <title>Adongo Peter Oduor | Cybersecurity Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body><header>
+    <h1>Adongo Peter Oduor</h1>
+    <p>Software Engineer | Cybersecurity Analyst | Threat Hunter | SOC Analyst</p>
+</header><section>
+    <h2>About Me</h2>
+    <p>
+        Applied Computer Science student with practical experience in SOC operations,
+        threat hunting, detection engineering, incident response, and digital forensics.
+    </p>
+</section><section>
+    <h2>Projects</h2><ul>
+    <li>Incident Timeline Triage</li>
+    <li>Detection-as-Code Pipeline</li>
+    <li>Threat Hunting Investigation</li>
+    <li>Ransomware Tabletop Exercise</li>
+    <li>Forensic Host Triage</li>
+</ul>
+
+</section><section>
+    <h2>Professional Development</h2>
+    <p>Defender Track Participant - Ongoza Cyber Hub</p>
+</section><section>
+    <h2>Certifications</h2><ul>
+    <li>Cyber Shujaa</li>
+    <li>Ethical Hacking & Penetration Testing (Udemy)</li>
+</ul>
+
+</section><section>
+    <h2>GitHub</h2>
+    <p>
+        <a href="https://github.com/Peter-123-RAM">
+            Visit My GitHub
+        </a>
+    </p>
+</section></body>
+</html>
