@@ -99,3 +99,43 @@ Certifications
 
 - Cyber Shujaa (Cisco Ethical Hacker)
 - Ethical Hacking & Penetration Testing: Go from Zero to Hero (Udemy)
+
+Arena Simulation – Ransomware at Mwangaza SACCO
+
+Role: Incident Commander (SOC / Incident Response)
+
+Result: EXEMPLARY (100/100)
+
+Scenario:
+A ransomware attack was detected on a finance workstation within a Kenyan SACCO environment supporting approximately 140,000 members. The attacker attempted lateral movement, privilege escalation, domain controller compromise, access to core banking systems, access to member databases, bulk exfiltration of personally identifiable information, and backup destruction.
+
+Actions Taken:
+
+- Isolated the infected workstation immediately.
+- Disabled the compromised user account.
+- Collected forensic evidence before remediation.
+- Isolated the suspicious domain controller.
+- Disabled a potentially compromised domain administrator account.
+- Conducted executive briefings to maintain board awareness.
+- Notified the regulator within the required legal timeframe.
+- Declared containment after all attacker objectives were neutralized.
+
+Outcome:
+
+- 100% containment achieved.
+- No member data exfiltration.
+- No successful attacker persistence.
+- No successful compromise of banking infrastructure.
+- Backup infrastructure protected.
+- Regulatory obligations fulfilled.
+- Board confidence maintained.
+
+Skills Demonstrated:
+
+- Incident Command
+- Ransomware Response
+- Threat Containment
+- Digital Forensics
+- Executive Communication
+- Regulatory Compliance
+- Crisis Leadership
