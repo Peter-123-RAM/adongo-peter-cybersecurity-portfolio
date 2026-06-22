@@ -1,41 +1,234 @@
-<!DOCTYPE html><html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adongo Peter Oduor | Cybersecurity Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body><header>
+
+<body>
+
+<header class="hero">
+
+    <img src="images/profile.jpg" alt="Adongo Peter Oduor" class="profile-pic">
+
     <h1>Adongo Peter Oduor</h1>
-    <p>Software Engineer | Cybersecurity Analyst | Threat Hunter | SOC Analyst</p>
-</header><section>
-    <h2>About Me</h2>
+
+    <h3>
+        Software Engineer | Cybersecurity Analyst |
+        Threat Hunter | SOC Analyst | Digital Forensics
+    </h3>
+
     <p>
-        Applied Computer Science student with practical experience in SOC operations,
-        threat hunting, detection engineering, incident response, and digital forensics.
+        Applied Computer Science Student passionate about
+        cybersecurity operations, software engineering,
+        incident response, threat hunting, and digital forensics.
     </p>
-</section><section>
-    <h2>Projects</h2><ul>
-    <li>Incident Timeline Triage</li>
-    <li>Detection-as-Code Pipeline</li>
-    <li>Threat Hunting Investigation</li>
-    <li>Ransomware Tabletop Exercise</li>
-    <li>Forensic Host Triage</li>
-</ul>
 
-</section><section>
-    <h2>Professional Development</h2>
-    <p>Defender Track Participant - Ongoza Cyber Hub</p>
-</section><section>
-    <h2>Certifications</h2><ul>
-    <li>Cyber Shujaa</li>
-    <li>Ethical Hacking & Penetration Testing (Udemy)</li>
-</ul>
+</header>
 
-</section><section>
-    <h2>GitHub</h2>
+<section>
+
+    <h2>About Me</h2>
+
     <p>
-        <a href="https://github.com/Peter-123-RAM">
-            Visit My GitHub
+        I am a Software Engineer and Cybersecurity Analyst with
+        practical experience in security operations, threat hunting,
+        detection engineering, digital forensics, incident response,
+        and secure software development.
+
+        My background combines software engineering with
+        cybersecurity, enabling me to understand both how systems
+        are built and how they are protected.
+    </p>
+
+</section>
+
+<section>
+
+    <h2>Technical Skills</h2>
+
+    <h3>Software Engineering</h3>
+
+    <ul>
+        <li>Object-Oriented Programming</li>
+        <li>Data Structures & Algorithms</li>
+        <li>Database Design</li>
+        <li>API Development</li>
+        <li>Software Testing</li>
+        <li>Git & Version Control</li>
+    </ul>
+
+    <h3>Web Development</h3>
+
+    <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+        <li>Responsive Design</li>
+    </ul>
+
+    <h3>Cybersecurity</h3>
+
+    <ul>
+        <li>SOC Operations</li>
+        <li>Threat Hunting</li>
+        <li>Detection Engineering</li>
+        <li>Incident Response</li>
+        <li>Digital Forensics</li>
+        <li>Threat Intelligence</li>
+        <li>Security Monitoring</li>
+        <li>Risk Assessment</li>
+    </ul>
+
+</section>
+
+<section>
+
+    <h2>Tools & Platforms</h2>
+
+    <ul>
+        <li>Linux</li>
+        <li>Windows</li>
+        <li>GitHub</li>
+        <li>Python</li>
+        <li>PowerShell</li>
+        <li>Autopsy</li>
+        <li>Volatility</li>
+        <li>RegRipper</li>
+        <li>GitHub Actions</li>
+    </ul>
+
+</section>
+
+<section>
+
+    <h2>Education</h2>
+
+    <h3>Kisii University</h3>
+
+    <p>
+        Bachelor of Science in Applied Computer Science
+    </p>
+
+</section>
+
+<section>
+
+    <h2>Professional Development</h2>
+
+    <h3>Ongoza Cyber Hub (OCH)</h3>
+
+    <p>
+        Currently enrolled in the Defender Track,
+        focusing on:
+    </p>
+
+    <ul>
+        <li>Threat Hunting</li>
+        <li>Digital Forensics</li>
+        <li>Detection Engineering</li>
+        <li>Incident Response</li>
+        <li>Security Operations Center (SOC)</li>
+        <li>Threat Intelligence</li>
+    </ul>
+
+</section>
+
+<section>
+
+    <h2>Featured Cybersecurity Projects</h2>
+
+    <ul>
+        <li>Threat Hunting Investigation</li>
+        <li>Detection-as-Code Pipeline</li>
+        <li>Incident Timeline Triage</li>
+        <li>Ransomware Tabletop Exercise</li>
+        <li>Forensic Host Triage</li>
+        <li>Student Management System Security Architecture</li>
+    </ul>
+
+</section>
+
+<section>
+
+    <h2>Achievements</h2>
+
+    <h3>Ongoza Cyber Hub Arena</h3>
+
+    <p>
+        Ransomware at Mwangaza SACCO
+    </p>
+
+    <ul>
+        <li>Role: Incident Commander (SOC / IR)</li>
+        <li>Result: EXEMPLARY (100/100)</li>
+        <li>No successful attacker persistence</li>
+        <li>No member data exfiltration</li>
+        <li>Evidence preserved before remediation</li>
+        <li>Regulatory obligations fulfilled</li>
+        <li>Board confidence maintained</li>
+    </ul>
+
+</section>
+
+<section>
+
+    <h2>Certifications</h2>
+
+    <ul>
+        <li>Cyber Shujaa</li>
+        <li>Ethical Hacking & Penetration Testing: Go From Zero To Hero (Udemy)</li>
+    </ul>
+
+</section>
+
+<section>
+
+    <h2>Career Interests</h2>
+
+    <ul>
+        <li>Software Engineering</li>
+        <li>Cybersecurity Engineering</li>
+        <li>SOC Analyst</li>
+        <li>Threat Hunter</li>
+        <li>Detection Engineer</li>
+        <li>Incident Responder</li>
+        <li>Security Researcher</li>
+    </ul>
+
+</section>
+
+<section>
+
+    <h2>Connect With Me</h2>
+
+    <p>
+        GitHub:
+        <a href="https://github.com/Peter-123-RAM" target="_blank">
+            github.com/Peter-123-RAM
         </a>
     </p>
-</section></body>
+
+    <p>
+        Portfolio Website:
+        <a href="https://peter-123-ram.github.io/adongo-peter-cybersecurity-portfolio/" target="_blank">
+            Visit Portfolio
+        </a>
+    </p>
+
+</section>
+
+<footer>
+
+    <p>
+        © 2026 Adongo Peter Oduor |
+        Cybersecurity & Software Engineering Portfolio
+    </p>
+
+</footer>
+
+</body>
 </html>
