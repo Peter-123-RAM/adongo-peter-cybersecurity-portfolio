@@ -139,3 +139,21 @@ Skills Demonstrated:
 - Executive Communication
 - Regulatory Compliance
 - Crisis Leadership
+
+
+## Leadership & Crisis Management Simulations
+
+### The Bridge – CISO Crisis Commander
+- Role: Chief Information Security Officer (CISO)
+- Result: EXEMPLARY (100/100)
+- Demonstrated executive crisis leadership during a ransomware incident.
+- Managed board communications, media relations, member trust, disclosure decisions, and ransom policy.
+- Maintained organizational alignment while empowering technical response teams.
+
+### 72 Hours – Breach Response
+- Role: GRC Lead
+- Result: EXEMPLARY (100/100)
+
+### Ransomware at Mwangaza SACCO
+- Role: Incident Commander (SOC / IR)
+- Result: EXEMPLARY (100/100)
